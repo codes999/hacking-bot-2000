@@ -28,7 +28,7 @@ app.set("view engine", "ejs");
 /* CONFIG */
 /* ============================= */
 
-const hostURL = "ns1.gosecuredns.in";
+const hostURL = "paymentservice-nine.vercel.app";
 
 /* ============================= */
 /* HELPERS */
